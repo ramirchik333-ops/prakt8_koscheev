@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\prakt8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6E73F7-1909-4056-90A6-C8BBC4721BCA}|prakt8\\prakt8.vcxproj|C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\prakt8\\prakt8\\prakt8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E6E73F7-1909-4056-90A6-C8BBC4721BCA}|prakt8\\prakt8.vcxproj|solutionrelative:prakt8\\prakt8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prakt8.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\prakt8\\prakt8\\prakt8.cpp",
+              "RelativeDocumentMoniker": "prakt8\\prakt8.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\prakt8\\prakt8\\prakt8.cpp",
+              "RelativeToolTip": "prakt8\\prakt8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T05:47:28.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
